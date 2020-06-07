@@ -1,2 +1,2 @@
-# BenedictOfficail
+# BenedictOfficial
 firstwebsite
